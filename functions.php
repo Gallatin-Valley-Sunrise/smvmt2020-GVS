@@ -1,4 +1,4 @@
-<?php
+<?php /*
 
 namespace smvmt2020;
 
@@ -15,3 +15,4 @@ add_filter( 'jetpack_sso_require_two_step', '__return_true' );
 // Uses Jetpack to disable default wordpress.org login form
 
 add_filter( 'jetpack_remove_login_form', '__return_true' );
+*/
